@@ -1,0 +1,12 @@
+# Day 3 - Control Flow and Logical Operators 
+
+## Concepts Learned
+- Control Flow with if / else and Conditional Operators
+- Modulo Operator
+- Nested if statements and elif statements
+- Multiple If Statements in Succession
+- Logical Operators
+
+## Treasure Island Game
+### A text-based adventure game where user choices determine different story outcomes using conditional logic.
+![Day 3 Code Demo](../gifs/Day003.gif)
