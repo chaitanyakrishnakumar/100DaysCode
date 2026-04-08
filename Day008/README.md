@@ -6,4 +6,5 @@
 
 ## Caesar Cipher
 ### A text based encryption and decryption tool implementing the Caesar cipher using functions and string manipulation.
-![Day 8 Code Demo](../gifs/Day008.gif)
+![Day 8 Code Demo](../gifs/Day008.1.gif)
+![Day 8 Code Demo](../gifs/Day008.2.gif)
