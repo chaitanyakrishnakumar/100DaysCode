@@ -11,3 +11,4 @@
 - [Day 6](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day006) Functions and Karel
 - [Day 7](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day007) Hangman Game
 - [Day 8](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day008) Function Parameters and Caesar Cipher
+- [Day 9](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day009) Dictionaries, Nesting, and the Secret Auction
