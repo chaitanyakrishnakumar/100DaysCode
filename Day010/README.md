@@ -11,5 +11,4 @@
 ## Calculator
 ### A command-line calculator that performs basic arithmetic operations using functions and user input.
 ![Day 10 Code Demo](../gifs/Day010.1.gif)
-- 
 ![Day 10 Code Demo](../gifs/Day010.2.gif)
