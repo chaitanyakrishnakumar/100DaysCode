@@ -13,3 +13,4 @@
 - [Day 8](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day008) Function Parameters and Caesar Cipher
 - [Day 9](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day009) Dictionaries, Nesting, and the Secret Auction
 - [Day 10](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day010) Functions with Outputs
+- [Day 11](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day011) Blackjack Capstone Project
