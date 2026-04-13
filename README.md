@@ -15,3 +15,4 @@
 - [Day 10](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day010) Functions with Outputs
 - [Day 11](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day011) Blackjack Capstone Project
 - [Day 12](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day012) Scope and Number Guessing Game
+- [Day 13](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day013) Debugging: Finding and Fixing Errors
