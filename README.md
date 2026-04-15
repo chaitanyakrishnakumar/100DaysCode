@@ -17,3 +17,6 @@
 - [Day 12](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day012) Scope and Number Guessing Game
 - [Day 13](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day013) Debugging: Finding and Fixing Errors
 - [Day 14](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day014) Higher-Lower Game Project
+
+## 🧩 Intermediate
+- [Day 15](https://github.com/chaitanyakrishnakumar/100DaysCode/tree/main/Day015) Local Development Environment and Coffee Machine
